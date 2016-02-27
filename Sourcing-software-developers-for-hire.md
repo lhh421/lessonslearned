@@ -1,4 +1,6 @@
-## Ways to Source Software Developers for Hire
+## Ways to Source Software Developers and Attract Them to Your Company
+
+ **Tips for sourcing software developers for hire:**
 
 - Ask other developers you may know for advice about potential candidates
   - Pesonal referrals prove to work very well
@@ -17,3 +19,15 @@
   *Follow this simple advice and you'll certainly find the perfect developer in no time!*
   
  ![alt text](http://cdn.business2community.com/wp-content/uploads/2014/09/hire-the-right-marketing-agency-600x384.jpg "You'll find the best software developer EVER!")
+ 
+ 
+ **Once you source skilled developers, here are a few tips for encouraging them to sign with your company:**
+ 
+- Show how you can add value to their career and development
+- Offer the ability to grow with the team (if they are interested)
+- Make sure you know your market and industry
+- Be credible
+- Show that you are reasonable
+  - Avoid the word "just" (e.g. "we just need...")
+
+  *Follow these simple tips and you'll be sure to attract quality talent to your team*
