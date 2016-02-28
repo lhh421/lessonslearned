@@ -3,7 +3,7 @@
  **Tips for sourcing software developers for hire:**
 
 - Ask other developers you may know for advice about potential candidates
-  - Pesonal referrals prove to work very well
+  - Personal referrals prove to work very well
 - Seek out developers who post on blogs or who present at conferences, as it will help you to find individuals with both expertise and communication skills
 - Post on relevant mailing lists
   - Some Meetups will mind if you post to their members and therefore it is highly advised that you check with Meetup administrators prior to posting
