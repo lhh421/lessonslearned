@@ -13,9 +13,10 @@ Efficient communication system between Developers and Management
   - Visible layout of tasks in "To-Do" / "On-Hold" / "WIP" / "Completed" buckets to allow accountability, resource management, etc.
   
 Provide environment for Developers to get things done, efficiently
-- Allow flexibility in Developer work hours as long as work gets done and does not impact other parties involved
-- No constant update meetings at 10am
+- Allow flexibility in Developer work hours as long as work gets done and does not impact other parties involved (Results Only Work Environment or ROWE rather than stressing unnecessary face time)
+- No weekly update meetings at 10am, do not interrupt Programmer's solid chunk of work time
   
-Supply environment to foster Developers career growth
+Provide environment to foster Developers career growth
+- Delegate often and make sure Developers feel a sense of ownership towards his / her projects
 - Be supportive of Developers' participation in meet ups, forums, etc.
-- If requested, give opporunities to rotate around multiple roles
+- If requested, give opportunities to rotate around multiple roles
