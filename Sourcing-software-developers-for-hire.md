@@ -6,6 +6,7 @@
   - Pesonal referrals prove to work very well
 - Seek out developers who post on blogs or who present at conferences, as it will help you to find individuals with both expertise and communication skills
 - Post on relevant mailing lists
+  - Some Meetups will mind if you post to their members and therefore it is highly advised that you check with Meetup administrators prior to posting
 - Observe credits on sites that are well-developed
 - Seek out graduates from specialized universities (note that individuals may be less experienced)
 - Attend hack-a-thons (note that participants may be younger and less experienced)
@@ -30,4 +31,4 @@
 - Show that you are reasonable
   - Avoid the word "just" (e.g. "we just need...")
 
-  *Follow these simple tips and you'll be sure to attract quality talent to your team*
+  *Follow these simple tips and you'll be sure to attract quality talent to your team!*
