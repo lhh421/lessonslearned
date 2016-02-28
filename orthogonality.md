@@ -1,7 +1,7 @@
 <h1>Managerial implications of orthogonality </h1>
 <p>A key concept we learned in class is the importance and implications of orthogonality in software design. Orthogonality is defined as ensuring that each action and operation only changes one thing, and does not influence others. 
 Managing orthogonality is essential to appropriately manage software generation, and ultimately manage your software engineering team. Below are the key implications from a management perspective of orthogonality, as we’ve learned through the class:</p>
-![Orthogonality](https://arthurminduca.files.wordpress.com/2014/03/orthogonal1.png)
+![alt text](https://arthurminduca.files.wordpress.com/2014/03/orthogonal1.png)
 <p> •	Orthogonality makes it easier to debug code when issues arise, therefore lowering software engineering costs in terms of total hours </p>
 <p> •	Software designed with orthogonality will have code that is easier to interpret, therefore if a software engineer leaves or quits it will be easier for a new software engineer to take ownership of the code. For a large program, it will be easier and less time consuming to make small tweaks.  </p>
 <p> •	Testing is substantially easier on orthogonal designs, therefore reducing the probability of errors and improving the quality of the product </p>
