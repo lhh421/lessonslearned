@@ -5,7 +5,7 @@ Many of today's effective project management proactices are summarized in the [M
 For more on the Agile Methodology, see the image below:
 ![alt text](http://static1.squarespace.com/static/53cd7a71e4b09faa58cef2dc/t/547e4448e4b0622f63869b4a/1417561161234/agile_method)
 
-Below are a few of the ways that Managers can instill good project management practices among his / her team.
+Here are a few of the ways that Managers can instill good project management practices among his / her team.
 
 Efficient communication system between Developers and Management
 - Recommend usage of up-to-date version control platform
