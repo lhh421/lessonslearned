@@ -1,8 +1,8 @@
-Popular Programming Languages
+<h1>Popular Programming Languages</h1>
 
-- Popular programming languages can be divided into two main categories; front-end and back-end.
+Popular programming languages can be divided into two main categories; front-end and back-end.
 
-Popular Front-End Programming Languages:
+<strong>Popular Front-End Programming Languages:</strong>
 
 - HTML: Short for HyperText Markup Language, the authoring language used to create documents on the World Wide Web. HTML is similar to SGML, although it is not a strict subset. HTML defines the structure and layout of a Web document by using a variety of tags and attributes.
 
@@ -11,7 +11,7 @@ Popular Front-End Programming Languages:
 - CSS: CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.
 
 
-Popular Back-End Programming Languages:
+<strong>Popular Back-End Programming Languages:</strong>
 
 - Java
 - PHP
@@ -19,7 +19,7 @@ Popular Back-End Programming Languages:
 - Python
 - Javascript
 
-Free Resources for Learning These Languages
+<strong>Free Resources for Learning These Languages:</strong>
 
 - www.codecademy.com
 - www.w3schools.com
