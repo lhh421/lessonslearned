@@ -19,7 +19,7 @@ When building a mobile app, there are three possible approaches you can follow: 
  - Pros
    - Takes hybrid approach but lets you integrate with the hardware of the phone a bit more
    - Can use a single code base across all platforms (e.g., Android, iOS) 
-   - Requires less customization for different platforms (e.g., Android, iOS)
+   - Requires less customization for different platforms 
  - Cons
    - Offers less flexibiltiy with UX / UI
    - Has a bit of a lag time for native hardware features
@@ -34,6 +34,7 @@ When building a mobile app, there are three possible approaches you can follow: 
    - Most expensive of the three approaches
    - Requires a separate development team for each platform (e.g., Android, iOS) with very little carry over
    - Takes a little bit more time to get to market
+   - Need to constantly modify and support the latest as each platform goes through version upgrades
 
 For further details on approaches for building an app [see this article](http://www.infoworld.com/article/2615122/mobile-development/native--web--or-hybrid--how-to-choose-your-mobile-development-path.html)
  
