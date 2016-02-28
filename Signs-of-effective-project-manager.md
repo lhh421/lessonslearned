@@ -21,5 +21,5 @@ Provide environment to foster Developers career growth
 - Be supportive of Developers' participation in meet ups, forums, etc.
 - If requested, give opportunities to rotate around multiple roles
 - Act more as a director rather than a micromanager
-- 
+
 ![alt text](http://cobaltpm.com/wp-content/uploads/2012/04/bigstock-Leadership-18192053_350px.jpg)
