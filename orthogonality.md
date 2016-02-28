@@ -9,8 +9,9 @@ Managing orthogonality is essential to appropriately manage software generation,
 <p> •	Each independent component of an orthogonal design can be thought of as an API and potentially sold or licensed to other companies as an additional source of revenue </p>
 <p> •	An orthogonal design follows the “No broken windows” rule of programming, and thus can be a motivating force to ensure the highest productivity and quality out of your software engineering team </p>
 
-
-
+<p> Below is a link to more details about orthogonality courtesy of wikipedia:
+<a href="https://en.wikipedia.org/wiki/Orthogonality_(programming)">Orthogonality</a>   
+</p>
 
 
 
