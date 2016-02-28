@@ -6,6 +6,7 @@ Efficient communication system between Developers and Management
   - Visible layout of tasks in "To-Do" / "On-Hold" / "WIP" / "Completed" buckets to allow accountability, resource management, etc.
   
 Provide environment for Developers to get things done, efficiently
+- Allow flexibility in Developer work hours as long as work gets done and does not impact other parties involved
 - No constant update meetings at 10am
   
 Supply environment to foster Developers career growth
