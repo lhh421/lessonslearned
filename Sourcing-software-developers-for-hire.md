@@ -10,8 +10,9 @@
 - Observe credits on sites that are well-developed
 - Seek out graduates from specialized universities (note that individuals may be less experienced)
 - Attend hack-a-thons (note that participants may be younger and less experienced)
-- You may choose to hire a developer from sites such as [Upwork](https://www.upwork.com), [Rent a Coder](http://www.rent-acoder.com), [Elance](https://www.elance.com/?r), or [Guru](http://www.guru.com)
+- You may choose to hire a developer from agencies and sites such as [Upwork](https://www.upwork.com), [Rent a Coder](http://www.rent-acoder.com), [Elance](https://www.elance.com/?r), or [Guru](http://www.guru.com)
   - Can potentially be more expensive
+  - Agencies make it easier to source large groups of developers and also provide insurance against unexpected interruptions
 - Go to relevant meetups
   - An example of one such meetup is [NYC on Rails](http://www.meetup.com/nyc-on-rails/)
   - Upon speaking with people at meetings, give a very brief elevator pitch, let people know you can pay, and say something such as "do you know anyone who may be interested?" to avoid putting people on the spot
